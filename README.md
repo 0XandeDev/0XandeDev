@@ -11,6 +11,6 @@ Foco e Dedicação Estou sempre buscando aprimorar meus conhecimentos, seja atra
 **HABILIDADES**
 
 **`Java`**
-**`MISQL`**
+**`MySQL`**
 **`Administrador de banco de dados`**
 **`Planejar o desenvolvimento de software`**
