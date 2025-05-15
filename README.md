@@ -12,5 +12,3 @@ Estou sempre buscando aprimorar meus conhecimentos, seja através dos estudos ac
 
 **`Java`**
 **`MySQL`**
-**`Administrador de banco de dados`**
-**`Planejar o desenvolvimento de software`**
