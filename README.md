@@ -9,11 +9,7 @@ Objetivo Profissional Meu grande sonho é me tornar um Desenvolvedor Backend ou 
 Foco e Dedicação Estou sempre buscando aprimorar meus conhecimentos, seja através dos estudos acadêmicos, projetos pessoais ou explorando novas tecnologias. Acredito que a combinação de teoria e prática é essencial para me tornar um profissional capacitado e inovador.
 
 **HABILIDADES**
-
 **`Java`**
-
 **`MISQL`**
-
 **`Administrador de banco de dados`**
-
 **`Planejar o desenvolvimento de software`**
