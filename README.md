@@ -1,6 +1,6 @@
 👩🏻‍💻 Alexandre Oliveira Machado
 
-
+**`Estudante`**
 
 Olá! Me chamo Alexandre Oliveira Machado, tenho 18 anos e sou um entusiasta da tecnologia em constante evolução. Atualmente, estou trilhando meu caminho no mundo da programação como estudante de Técnico em Desenvolvimento de Sistemas (TDS) e também cursando minha graduação em Análise e Desenvolvimento de Sistemas (ADS).
 
