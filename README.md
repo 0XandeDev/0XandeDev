@@ -47,7 +47,7 @@ Olá! Sou estudante de Desenvolvimento de Sistemas pelo SENAC, com foco em desen
 Sistema completo para gerenciamento de livros e usuários.
 
 📸 Preview do sistema:
-![Preview](<img width="1280" height="672" alt="image" src="https://github.com/user-attachments/assets/e8308442-ab7c-47da-a56c-90df0e97a4de" />
+![Preview]([<img width="1280" height="672" alt="image" src="https://github.com/user-attachments/assets/e8308442-ab7c-47da-a56c-90df0e97a4de"](https://media.licdn.com/dms/image/v2/D4D22AQH_pxxooVAxrg/feedshare-shrink_1280/B4DZztvrk_GYAQ-/0/1773515225711?e=1775692800&v=beta&t=eJ_YJklyBlJSf0YrM0XMZbbSyhqPkrsjyj98hkhD-IQ) />
 )
 ---
 
