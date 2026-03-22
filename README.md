@@ -11,7 +11,7 @@ Olá! Sou estudante de Desenvolvimento de Sistemas pelo SENAC, com foco em desen
 ## 🛠️ Tecnologias e Ferramentas
 - Java  
 - Programação Orientada a Objetos (POO)  
-- MySQL  
+- Banco de Dados (MySQL)
 - APIs REST  
 - Git & GitHub  
 - Modelagem de Sistemas  
@@ -20,6 +20,13 @@ Olá! Sou estudante de Desenvolvimento de Sistemas pelo SENAC, com foco em desen
 - Python (básico)  
 - SpringBoot
 - AWS
+- Interface de Usuário (UI/UX – básico)
+- Algoritmos e Lógica de Programação
+- Versionamento de Software
+- Integração de Sistemas
+- Levantamento de Requisitos
+
+
 
 ## Linguagem
 - Brasil - native
