@@ -4,7 +4,7 @@ Olá! Sou estudante de Desenvolvimento de Sistemas pelo SENAC, com foco em desen
 
 💡 Tenho grande interesse em construir sistemas eficientes, escaláveis e bem estruturados, aplicando boas práticas de desenvolvimento, organização de código e arquitetura de software.
 
-🚀 Atualmente, estou em constante evolução, desenvolvendo projetos práticos e aprofundando meus conhecimentos para me tornar um Engenheiro de Software.
+ Atualmente, estou em constante evolução, desenvolvendo projetos práticos e aprofundando meus conhecimentos para me tornar um Engenheiro de Software.
 
 ---
 
