@@ -17,30 +17,38 @@ Olá! Sou estudante de Desenvolvimento de Sistemas pelo SENAC, com foco em desen
 
 ---
 
+## 🧠 Competências
+
+- Desenvolvimento Orientado a Objetos (POO)  
+- Lógica de Programação e Algoritmos  
+- Modelagem de Sistemas (UML, Casos de Uso)  
+- Levantamento de Requisitos (Funcionais e Não Funcionais)  
+- Testes de Software e melhoria contínua  
+- Versionamento de Código (Git)  
+- Integração com Banco de Dados  
+- Organização e estruturação de código  
+- Boas práticas de desenvolvimento  
+
+---
+## 🤝 Soft Skills
+
+- Facilidade de aprendizado  
+- Pensamento lógico e analítico  
+- Trabalho em equipe  
+- Proatividade  
+- Organização  
+- Comunicação  
+
+---
 ## 📂 Projetos em Destaque
 
 ### 📚 Sistema de Biblioteca
-🔗 https://github.com/0XandeDev/NOME-DO-REPO  
+🔗 [https://github.com/0XandeDev/ ](https://github.com/0XandeDev/library-management-system-java)
 Sistema completo para gerenciamento de livros e usuários.
 
 📸 Preview do sistema:
-![Preview](LINK-DA-IMAGEM-AQUI)
-
----
-
-### ⚙️ Sistema CRUD
-🔗 https://github.com/0XandeDev/NOME-DO-REPO  
-Aplicação com operações completas de cadastro, edição e exclusão de dados.
-
-📸 Preview do sistema:
-![Preview](LINK-DA-IMAGEM-AQUI)
-
----
-
-### 💻 Projetos Acadêmicos
-🔗 https://github.com/0XandeDev  
-Projetos desenvolvidos durante o curso aplicando lógica, banco de dados e engenharia de software.
-
+![Preview](<img width="1280" height="672" alt="image" src="https://github.com/user-attachments/assets/e8308442-ab7c-47da-a56c-90df0e97a4de" />
+)
 ---
 
 ## 📊 Objetivo
