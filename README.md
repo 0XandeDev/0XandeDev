@@ -25,6 +25,7 @@
 
 # 🛠️ Tecnologias e Ferramentas
 
+<div align="center">
 
 <img src="https://skillicons.dev/icons?i=java,spring,mysql,html,css" />
 <img src="https://skillicons.dev/icons?i=git,github,vscode,idea" />
@@ -34,6 +35,7 @@
 <img src="https://img.shields.io/badge/English-Basic-blue?style=for-the-badge"/>
 
 
+</div>
 
 ---
 
