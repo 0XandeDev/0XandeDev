@@ -24,35 +24,20 @@
 ---
 
 # 🛠️ Tecnologias e Ferramentas
-
 <div align="center">
-
 ### 💻 Linguagens e Frameworks
-
 <img src="https://skillicons.dev/icons?i=java,spring,mysql,html,css" />
-
 <br><br>
-
 ### ⚙️ Ferramentas e IDEs
-
 <img src="https://skillicons.dev/icons?i=git,github,vscode,idea" />
-
 <br><br>
-
 <img src="https://img.shields.io/badge/NetBeans-1B6AC6?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white"/>
-
 <br><br>
-
 ### ☁️ Cloud & Outros
-
 <img src="https://skillicons.dev/icons?i=aws" />
-
 <br><br>
-
 <img src="https://img.shields.io/badge/UI%2FUX-Basic-purple?style=for-the-badge"/>
-
 <img src="https://img.shields.io/badge/English-Basic-blue?style=for-the-badge"/>
-
 </div>
 
 ---
@@ -151,26 +136,6 @@ Aplicação para gerenciamento de tarefas com autenticação de usuários.
 ✔️ Edição e exclusão  
 ✔️ Persistência de dados  
 ✔️ Organização do sistema  
-
----
-
-# 📈 GitHub Stats
-
-<div align="center">
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=0XandeDev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0XandeDev&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=0XandeDev&theme=tokyonight&hide_border=true"/>
-
-</div>
 
 ---
 
