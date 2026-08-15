@@ -1,181 +1,200 @@
 <h1 align="center">Olá 👋, eu sou Alexandre Oliveira Machado</h1>
 
 <p align="center">
-💻 Desenvolvedor Back-End em formação <br>
-🎓 Estudante de Desenvolvimento de Sistemas - SENAC <br>
-☕ Focado em Java, Spring Boot e Banco de Dados
+  <strong>Backend Java Developer em formação | Estudante de Engenharia de Software</strong>
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Back-End+Developer+in+progress;Java+%7C+Spring+Boot+%7C+MySQL;Always+learning+new+technologies;Software+Engineering+Student" />
+  <a href="https://github.com/0XandeDev">
+    <img src="https://img.shields.io/badge/GitHub-0XandeDev-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/alexandre-oliveira-machado-541881362/">
+    <img src="https://img.shields.io/badge/LinkedIn-Alexandre%20Oliveira-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Backend+Java+Developer+em+formação;Java+%7C+Spring+Boot+%7C+SQL;APIs+REST+%7C+MySQL+%7C+Git;Engenharia+de+Software;Construindo+projetos+e+evoluindo+todos+os+dias" />
 </p>
 
 ---
 
-# 🚀 Sobre Mim
+## 👨‍💻 Sobre mim
 
-🎓 Estudante de Desenvolvimento de Sistemas pelo SENAC  
-💻 Desenvolvedor Back-End em formação  
-☕ Focado em Java, Spring Boot e Banco de Dados  
-📚 Estudando Engenharia de Software e boas práticas  
-🚀 Construindo projetos práticos para evoluir constantemente  
-🎯 Em busca da primeira oportunidade como Desenvolvedor Back-End  
+Sou estudante de **Engenharia de Software** e formado como **Técnico em Desenvolvimento de Sistemas pelo SENAC**.
 
----
+Tenho como objetivo construir minha carreira no desenvolvimento **Backend**, utilizando principalmente o ecossistema Java.
 
-# 🛠️ Tecnologias e Ferramentas
+Atualmente estou aprofundando meus conhecimentos em:
 
-<div align="center">
+- ☕ Java e Programação Orientada a Objetos
+- 🌱 Spring Boot
+- 🔗 Desenvolvimento de APIs REST
+- 🗄️ SQL e MySQL
+- 🧪 Testes de Software
+- 🏗️ Arquitetura e organização de sistemas
+- 🧹 Clean Code e boas práticas
+- 🔀 Git e GitHub
+- ☁️ Fundamentos de Cloud e AWS
 
-<img src="https://skillicons.dev/icons?i=java,spring,mysql,html,css" />
-<img src="https://skillicons.dev/icons?i=git,github,vscode,idea" />
-<img src="https://img.shields.io/badge/NetBeans-1B6AC6?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white"/>
-<img src="https://skillicons.dev/icons?i=aws" />
-
-
-
-</div>
+Meu objetivo é transformar conhecimento em **projetos práticos**, buscando escrever código cada vez mais organizado, escalável e fácil de manter.
 
 ---
 
-# 🧠 Habilidades
+## 🚀 Stack Principal
+
+### ☕ Backend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=java,spring,maven" />
+</p>
+
+**Java • Spring Boot • Maven • APIs REST • POO**
+
+### 🗄️ Banco de Dados
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,postgresql" />
+</p>
+
+**MySQL • PostgreSQL • SQL • Modelagem de Dados**
+
+### 🧰 Ferramentas
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,idea,vscode,postman" />
+</p>
+
+**Git • GitHub • IntelliJ IDEA • VS Code • Postman**
+
+### ☁️ Cloud & DevOps
+
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,docker" />
+</p>
+
+**AWS • Docker • Fundamentos de CI/CD**
+
+---
+
+## 🧠 Conhecimentos
 
 ### Backend
 - Java
 - Spring Boot
 - APIs REST
-- Programação Orientada a Objetos (POO)
+- Programação Orientada a Objetos
+- Collections
+- Exceptions
+- Streams
+- Maven
+- Integração com APIs
 
 ### Banco de Dados
-- MySQL
 - SQL
-- Modelagem de Dados
-
-### Ferramentas
-- Git & GitHub
-- VS Code
-- IntelliJ IDEA
-- Apache NetBeans
+- MySQL
+- PostgreSQL
+- Modelagem de dados
+- Relacionamentos
+- Joins
+- Queries
+- CRUD
 
 ### Engenharia de Software
+- Levantamento de requisitos
 - UML
-- Casos de Uso
-- Levantamento de Requisitos
-- Testes de Software
+- Casos de uso
+- Arquitetura de software
 - Clean Code
-- Estruturação de Código
+- SOLID
+- Padrões de projeto
+- Testes de software
+- Versionamento de código
 
 ---
 
-# 🤝 Soft Skills
+## 📂 Projetos
 
-✔️ Proatividade  
-✔️ Facilidade de aprendizado  
-✔️ Pensamento lógico e analítico  
-✔️ Trabalho em equipe  
-✔️ Organização  
-✔️ Comunicação  
+### 📚 Library Management System
 
----
+Sistema desenvolvido para gerenciamento de uma biblioteca.
 
-# 📂 Projetos em Destaque
+**Tecnologias:** Java • MySQL • Git
 
-## 📚 Sistema de Biblioteca
+**Principais funcionalidades:**
+- Cadastro de livros
+- Cadastro de usuários
+- Controle de empréstimos
+- Persistência de dados
+- Consultas ao banco de dados
+- Organização em camadas
 
-Sistema completo para gerenciamento de livros, usuários e empréstimos.
-
-### 🔧 Tecnologias
-- Java
-- MySQL
-- Git/GitHub
- 
-### ✨ Funcionalidades
-✔️ Cadastro de livros  
-✔️ Cadastro de usuários  
-✔️ Controle de empréstimos  
-✔️ Integração com banco de dados  
-✔️ Organização em camadas  
-
-🔗 Projeto:  
-https://github.com/0XandeDev/library-management-system-java
+🔗 [Ver projeto](https://github.com/0XandeDev/library-management-system-java)
 
 ---
 
-## 📦 Sistema de Controle de Estoque
+### 📦 Sistema de Controle de Estoque
 
-Sistema para controle de produtos, categorias e movimentações de estoque.
+Sistema desenvolvido para gerenciamento de produtos e movimentações de estoque.
 
-### 🔧 Tecnologias
-- Java
-- MySQL
+**Tecnologias:** Java • MySQL • SQL
 
-### ✨ Funcionalidades
-✔️ Cadastro de produtos  
-✔️ Controle de estoque  
-✔️ Entrada e saída de produtos  
-✔️ Relatórios SQL  
-✔️ Consultas organizadas  
-
----
-
-## ✅ Sistema de Gerenciamento de Tarefas
-
-Aplicação para gerenciamento de tarefas com autenticação de usuários.
-
-### 🔧 Tecnologias
-- Java
-- MySQL
-
-### ✨ Funcionalidades
-✔️ Login de usuários  
-✔️ Cadastro de tarefas  
-✔️ Edição e exclusão  
-✔️ Persistência de dados  
-✔️ Organização do sistema  
+**Principais funcionalidades:**
+- Cadastro de produtos
+- Categorias
+- Entrada e saída de estoque
+- Consultas SQL
+- Controle de movimentações
+- Relatórios
 
 ---
 
-# 📚 Atualmente Estudando
+### ✅ Sistema de Gerenciamento de Tarefas
 
-📌 Spring Boot  
-📌 APIs REST  
-📌 SQL Avançado  
-📌 Estrutura de Dados  
-📌 AWS Cloud  
-📌 Arquitetura de Software  
-📌 Testes de Software  
-📌 Clean Code  
+Aplicação voltada para organização e gerenciamento de tarefas.
 
----
+**Tecnologias:** Java • MySQL
 
-# 🌎 Onde me encontrar
-
-<div align="center">
-
-<a href="mailto:alexandre.mach14@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/alexandre-oliveira-machado-541881362/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://github.com/0XandeDev">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</div>
+**Principais funcionalidades:**
+- Autenticação de usuários
+- Cadastro de tarefas
+- Edição e exclusão
+- Persistência de dados
+- Organização do sistema
 
 ---
 
-# 📊 Objetivo
+## 📚 Atualmente estudando
 
-Busco minha primeira oportunidade na área de tecnologia para aplicar meus conhecimentos na prática, evoluir como desenvolvedor e contribuir com projetos reais enquanto construo uma carreira sólida em Engenharia de Software.
+```text
+Java
+ ├── POO
+ ├── Collections
+ ├── Streams
+ ├── Exceptions
+ └── Boas práticas
 
----
+Spring Boot
+ ├── Spring Web
+ ├── Spring Data JPA
+ ├── Hibernate
+ ├── APIs REST
+ └── Spring Security
 
-<div align="center">
+Banco de Dados
+ ├── SQL
+ ├── MySQL
+ ├── PostgreSQL
+ └── Modelagem
 
-### ⭐ Sempre buscando aprender, evoluir e construir projetos incríveis!
+Engenharia de Software
+ ├── Arquitetura
+ ├── SOLID
+ ├── Clean Code
+ ├── Design Patterns
+ └── Testes
 
-</div>
+Cloud
+ ├── AWS
+ ├── Docker
+ └── CI/CD
